@@ -1,0 +1,15 @@
+pkgbase = otf-yasashisa-antique
+	pkgdesc = Japanese antique (gothic + mincho mix) font for comics
+	pkgver = 3
+	pkgrel = 1
+	url = http://www.fontna.com/
+	install = otf.install
+	arch = any
+	license = custom
+	depends = fontconfig
+	depends = xorg-font-utils
+	source = http://flop.sakura.ne.jp/font/fontna-op/YasashisaAntiqueFont.zip
+	md5sums = 30c41bf75096f570caa06803c1c71dfe
+
+pkgname = otf-yasashisa-antique
+
